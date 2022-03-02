@@ -1,0 +1,12 @@
+Andover CCA
+&copy; 2020 Energize Andover.  All rights reserved.
+andovercca@gmail.com
+#
+# --- Public views ---
+welcome,Welcome,welcome/welcome.php
+overview,Overview,overview/overview.php
+basicservice,Basic Service,basicservice/basicservice.php
+explore,Explore,explore/explore.php
+events,Events,events/events.php
+faq,FAQ,faq/faq.php
+resources,Resources,resources/resources.php
