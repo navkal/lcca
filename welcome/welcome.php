@@ -1,5 +1,5 @@
 <?php
-  // Copyright 2020 Energize Andover.  All rights reserved.
+  // Copyright 202s Energize Lawrence.  All rights reserved.
 
   include $_SERVER["DOCUMENT_ROOT"]."/util/security.php";
 
@@ -13,15 +13,15 @@
     <hr/>
     <div class="pl-4 py-2">
       <div class="h5 py-1">
-        Congratulations, Andover!
+        Hey, Lawrence!
       </div>
 
       <div class="h6 py-1">
-        Town Meeting passed Article 28 with overwhelming support.
+        Here's an announcement.
       </div>
 
       <div class="h6 py-1">
-        Thanks to all who participated!
+        And here's more about the announcement.
       </div>
 
     </div>
@@ -165,7 +165,7 @@
       <span class="font-weight-bold"><a href="/?page=overview" class="dark-link" ><i>Community Choice Aggregation</i></a></span>
     </h3>
     <h4>
-      to Andover.
+      to Lawrence.
     </h4>
 
     <!-- Past events -->
@@ -180,7 +180,7 @@
 
     <!-- Link to sign-up form -->
     <h6 class="py-2">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLScP7_LHHiBiykztDq8usdPlBrmZCGDSoFgIJYOxIUuwByxegw/viewform?usp=pp_url&entry.238260412=No&entry.1029755686=No" target="_blank" >Sign up</a> for Andover CCA updates.
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScP7_LHHiBiykztDq8usdPlBrmZCGDSoFgIJYOxIUuwByxegw/viewform?usp=pp_url&entry.238260412=No&entry.1029755686=No" target="_blank" >Sign up</a> for Lawrence CCA updates.
     </h6>
 
     <!-- Coming events -->
