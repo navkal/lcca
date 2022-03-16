@@ -152,6 +152,18 @@
     font-size: 1.25rem;
   }
 
+  .cca
+  {
+    max-height: 70px;
+  }
+
+  @media( max-width: 767px )
+  {
+    .cca
+    {
+      max-height: 50px;
+    }
+  }
 </style>
 
 <div class="jumbotron jumbotron-fluid">
@@ -188,6 +200,7 @@
       showComingEvents( false );
     ?>
 
-    <img src="../brand.ico" alt="" style="max-height:80px; position:absolute; bottom:80px; right:40px;">
+    <img src="welcome/cca.png" class="cca">
+
   </div>
 </div>
