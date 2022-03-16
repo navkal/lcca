@@ -90,7 +90,6 @@
           formatEvent( $aNextEvent, false );
         ?>
       </div>
-      <hr/>
 
       <?php
       if ( $bLinkToAll )
