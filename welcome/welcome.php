@@ -17,7 +17,7 @@
       </div>
 
       <div class="h6 py-1">
-        Here's an announcement.
+        This is a sample Featured Announcement.
       </div>
 
       <div class="h6 py-1">
@@ -25,7 +25,6 @@
       </div>
 
     </div>
-    <hr/>
 <?php
     // <-- <-- Hard-coded.  Remove later.  <-- <--
   }
@@ -180,14 +179,14 @@
       to Lawrence.
     </h4>
 
-    <!-- Past events -->
-    <?php
-      //showPastEvents();
-    ?>
-
     <!-- Featured announcement -->
     <?php
       showFeaturedAnnouncement();
+    ?>
+
+    <!-- Past events -->
+    <?php
+      showPastEvents();
     ?>
 
     <!-- Link to sign-up form -->
