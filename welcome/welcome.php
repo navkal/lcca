@@ -21,7 +21,7 @@
       </div>
 
       <div class="h6 py-1">
-        This is a very long line of content, to juxtapose text with background image.
+        This is a very long line of content, to superimpose text on background image.
       </div>
 
     </div>
