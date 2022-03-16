@@ -362,7 +362,7 @@ input.error
           </div>
         </small>
 
-        <img src="explore/bill.png" class="img-fluid" ></img>
+        <img src="calculator/bill.png" class="img-fluid" ></img>
 
       </div>
       <div class="modal-footer">
