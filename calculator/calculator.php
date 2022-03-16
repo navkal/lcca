@@ -71,7 +71,7 @@ input.error
 <div class="container">
 
   <div class="h5 py-2">
-    What if Andover were to adopt CCA?
+    What if Lawrence were to adopt CCA?
   </div>
 
   <p>
@@ -343,7 +343,7 @@ input.error
               Instructions
             </b>
             <p>
-              View results for actual Sample Customers in Andover by clicking the numbered buttons, or follow the steps below to enter readings from your own bill:
+              View results for actual Sample Customers in Lawrence by clicking the numbered buttons, or follow the steps below to enter readings from your own bill:
             </p>
             <ol>
               <li>

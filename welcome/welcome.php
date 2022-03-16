@@ -184,6 +184,11 @@
       showFeaturedAnnouncement();
     ?>
 
+    <!-- Coming events -->
+    <?php
+      showComingEvents( false );
+    ?>
+
     <!-- Past events -->
     <?php
       showPastEvents();
@@ -193,11 +198,6 @@
     <h6 class="py-2">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLScP7_LHHiBiykztDq8usdPlBrmZCGDSoFgIJYOxIUuwByxegw/viewform?usp=pp_url&entry.238260412=No&entry.1029755686=No" target="_blank" >Sign up</a> for Lawrence CCA updates.
     </h6>
-
-    <!-- Coming events -->
-    <?php
-      showComingEvents( false );
-    ?>
 
     <img src="welcome/cca.png" class="cca">
 
