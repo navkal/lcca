@@ -21,7 +21,7 @@
       </div>
 
       <div class="h6 py-1">
-        And here's more about the announcement.
+        This is a long line to demonstrate text appearance against the background image.
       </div>
 
     </div>
