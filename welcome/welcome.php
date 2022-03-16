@@ -188,13 +188,6 @@
       showComingEvents( false );
     ?>
 
-    <!-- Vertical space so text can be scrolled above background clip art -->
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-
+    <img src="../brand.ico" alt="" style="max-height:80px; position:absolute; bottom:80px; right:40px;">
   </div>
 </div>
