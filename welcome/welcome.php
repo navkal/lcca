@@ -1,5 +1,5 @@
 <?php
-  // Copyright 202s Energize Lawrence.  All rights reserved.
+  // Copyright 2022 Energize Lawrence.  All rights reserved.
 
   include $_SERVER["DOCUMENT_ROOT"]."/util/security.php";
 

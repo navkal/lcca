@@ -1,5 +1,5 @@
 <?php
-  // Copyright 2020 Energize Andover.  All rights reserved.
+  // Copyright 2022 Energize Lawrence.  All rights reserved.
 
   include $_SERVER["DOCUMENT_ROOT"]."/util/security.php";
 ?>
@@ -11,7 +11,7 @@
   </div>
 
   <p>
-    <i>Community Choice Aggregation</i> (CCA) is a state-regulated program that addresses a growing demand by Massachusetts electricity consumers to purchase renewable energy at competitive prices.  Also known as <i>Municipal Aggregation</i>, the program authorizes a municipality to negotiate prices and terms with competing electricity suppliers on behalf of the community.  One hundred forty-six Massachusetts towns and cities already participate in this program today.  Andover should, too.
+    <i>Community Choice Aggregation</i> (CCA) is a state-regulated program that addresses a growing demand by Massachusetts electricity consumers to purchase renewable energy at competitive prices.  Also known as <i>Municipal Aggregation</i>, the program authorizes a municipality to negotiate prices and terms with competing electricity suppliers on behalf of the community.  One hundred seventy-five Massachusetts towns and cities already participate in this program today.  Lawrence should, too.
   </p>
 
   <p>
@@ -33,7 +33,7 @@
   </p>
 
   <p>
-    Through CCA, Andover would be able to purchase energy with a higher renewable content than required by the Massachusetts Renewable Portfolio Standard, in keeping with the town's values as a designated Massachusetts Green Community.
+    Through CCA, Lawrence would be able to purchase energy with a higher renewable content than required by the Massachusetts Renewable Portfolio Standard, in keeping with the town's values as a designated Massachusetts Green Community.
   </p>
 
   <p>
@@ -41,10 +41,10 @@
   </p>
 
   <p>
-    <a href="https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section134" target="_blank">Massachusetts General Law, M.G.L. c. 164 sec. 134</a>, outlines CCA rules.  To implement CCA in Andover, the town must take the following steps:
+    <a href="https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section134" target="_blank">Massachusetts General Law, M.G.L. c. 164 sec. 134</a>, outlines CCA rules.  To implement CCA in Lawrence, the town must take the following steps:
     <ol>
       <li>
-        Vote at Town Meeting to authorize the town to initiate the program
+        Stuff to list that the City Council and Mayor have to do???
       </li>
       <li>
         Plan the program in consultation with MA Department of Energy Resources
@@ -53,7 +53,7 @@
         Make the plan available for review by citizens
       </li>
       <li>
-        Secure approval of the plan by the Select Board
+        Secure approval of the plan by the City Council???
       </li>
       <li>
         Submit the plan to MA Department of Public Utilities for final approval
@@ -62,16 +62,13 @@
   </p>
 
   <p>
-    Andover CCA is supported by the following local organizations:
+    Lawrence CCA is supported by the following local organizations:
     <ul>
       <li>
-        <a href="https://andoverma.gov/189/Andover-Green-Advisory-Board" target="_blank">Andover Green Advisory Board</a>
+        <a href="https://www.cityoflawrence.com/" target="_blank">List item with a link</a>
       </li>
       <li>
-        <a href="https://energizeandover.com" target="_blank">Energize Andover</a>
-      </li>
-      <li>
-        Andover WECAN - Working to Educate for Climate Action Now
+        List item with no link
       </li>
     </ul>
   </p>

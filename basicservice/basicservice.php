@@ -1,5 +1,5 @@
 <?php
-  // Copyright 2020 Energize Andover.  All rights reserved.
+  // Copyright 2022 Energize Lawrence.  All rights reserved.
 
   include $_SERVER["DOCUMENT_ROOT"]."/util/security.php";
 ?>
