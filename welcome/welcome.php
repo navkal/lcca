@@ -198,7 +198,5 @@
       <a href="https://docs.google.com/forms/d/e/1FAIpQLScP7_LHHiBiykztDq8usdPlBrmZCGDSoFgIJYOxIUuwByxegw/viewform?usp=pp_url&entry.238260412=No&entry.1029755686=No" target="_blank" >Sign up</a> for Lawrence CCA updates.
     </h6>
 
-    <img src="welcome/cca.png" class="cca">
-
   </div>
 </div>
