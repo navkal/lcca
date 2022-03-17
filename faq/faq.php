@@ -88,7 +88,7 @@ var g_aQa =
     a: 'CCA empowers cities and towns to create large buying groups of customers in order to seek bids for cheaper supply rates.  By grouping electricity customer accounts within municipal boundaries, CCA creates economies of scale, enabling participating cities and towns to obtain competitive rates for account holders as a whole.'
   },
   {
-    q: 'What are the steps for implementing a CCA program in Andover?',
+    q: 'What are the steps for implementing a CCA program in Lawrence?',
     a:
       '<ol>' +
       '  <li>' +
@@ -116,7 +116,7 @@ var g_aQa =
     q: 'How do I join or leave the CCA program?',
     a:
       '<p>' +
-      '  If enacted, the Andover CCA program will offer one or more supply options to <?=NG?> customers.' +
+      '  If enacted, the Lawrence CCA program will offer one or more supply options to <?=NG?> customers.' +
       '</p>' +
       '<p>' +
       '  Initially, if you get your supply from <?=NGBS?>, you will be switched automatically to the program\'s default supply option.  If the program offers other options - for example, with higher or lower renewable content than the default - you can switch (<i>opt up</i> or <i>opt down</i>) at any time.  You can also return to <?=NGBS?> at any time, without penalty or cost.  You can even <i>opt out</i> before the program starts.' +
@@ -168,7 +168,7 @@ var g_aQa =
     a: 'If you have a solar PV system, you can participate in the CCA program, as long as you subscribe to <?=NGBS?>.  You will continue to receive net metering credits, which will appear on your <?=NG?> bill and be calculated based on the <?=NGBS?> price, as before.  There will be no change in your eligibility to earn or sell SRECs.'
   },
   {
-    q: 'How can I trust that Andover will select a competent and reputable supplier?',
+    q: 'How can I trust that Lawrence will select a competent and reputable supplier?',
     a: 'Only suppliers licensed by the state are eligible to bid for CCA contracts.'
   },
   {
@@ -176,8 +176,8 @@ var g_aQa =
     a: 'No.  By law, utilities cannot bid for CCA supply contracts.'
   },
   {
-    q: 'Will Andover municipality profit from the CCA program?',
-    a: 'No, Andover will not profit from the CCA program.  However, as a current customer of <?=NGBS?>, the municipality has the potential to benefit from the program in the same way as residential and business customers would.'
+    q: 'Will Lawrence municipality profit from the CCA program?',
+    a: 'No, Lawrence will not profit from the CCA program.  However, as a current customer of <?=NGBS?>, the municipality has the potential to benefit from the program in the same way as residential and business customers would.'
   },
   {
     q: 'Under the program, can I continue to participate in <?=NG?>’s budget billing/equal payment plan?',
