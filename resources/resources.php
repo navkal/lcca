@@ -26,31 +26,6 @@
       'descr' => 'How to start a Community Choice Aggregation program'
     ],
     [
-      'url' => 'https://andoverma.gov/DocumentCenter/View/8102',
-      'title' => 'Presentation on Andover CCA (June 15, 2020)',
-      'descr' => 'Michael Lindstrom, Deputy Town Manager, and Joyce Losick-Yang, PhD, Sustainability Coordinator'
-    ],
-    [
-      'url' => 'https://andover.vod.castus.tv/vod/?video=c3b22398-aabf-4f0c-ac22-fd4df6cb3834',
-      'title' => 'Video recording of forum on Andover CCA (May 27, 2020)',
-      'descr' => 'WebEx forum led by Michael Lindstrom, Deputy Town Manager, and Joyce Losick-Yang, PhD, Sustainability Coordinator'
-    ],
-    [
-      'url' => 'https://photos.app.goo.gl/dMSUzPDctx6r6GFW8',
-      'title' => 'Andover Green Advisory Board (AGAB)',
-      'descr' => 'Joint presentation by Good Energy and GECA'
-    ],
-    [
-      'url' => 'https://drive.google.com/open?id=1D7E_xN45nHt2MoVBcy5JylLRv0Ek5q7B',
-      'title' => 'CCA in Merrimack Valley',
-      'descr' => 'Map of Merrimack Valley communities that have adopted CCA'
-    ],
-    [
-      'url' => 'https://docs.google.com/spreadsheets/d/1wNX4zTMuKPAL0QSGVU3hSx6O6sE8keQXy8Zwx2Tbh0c/edit?usp=sharing',
-      'title' => 'Current CCA pricing',
-      'descr' => 'CCA pricing in nearby towns'
-    ],
-    [
       'url' => 'https://www.nationalgridus.com/media/pdfs/billing-payments/electric-rates/ma/resitable.pdf',
       'title' => NGBS . ' pricing',
       'descr' => NGBS . ' rates since November, 2004'
