@@ -92,16 +92,16 @@ var g_aQa =
     a:
       '<ol>' +
       '  <li>' +
-      '    Approval by voters at Town Meeting' +
+      '    Authorization by City Council to develop aggregation plan' +
       '  </li>' +
       '  <li>' +
-      '    Development of plan by town government' +
+      '    Selection of energy broker to help design plan' +
       '  </li>' +
       '  <li>' +
-      '    Public review of plan' +
+      '    Development of plan by city government, broker, and MA DOER' +
       '  </li>' +
       '  <li>' +
-      '    Approval of plan by Select Board' +
+      '    Approval of plan by City Council' +
       '  </li>' +
       '  <li>' +
       '    Submission of plan to MA DPU for final approval' +
