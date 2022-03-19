@@ -13,16 +13,15 @@
     <hr/>
     <div class="pl-4 py-2">
       <div class="h5 py-1">
-        Hey, Lawrence!
+        Learn all about it on these pages.
+      </div>
+      <!-- >>> More lines -- >
+      <div class="h6 py-1">
       </div>
 
       <div class="h6 py-1">
-        This is a sample Featured Announcement.
       </div>
-
-      <div class="h6 py-1">
-        This is a very long line of content, to superimpose text on background image.
-      </div>
+      <!-- <<< More lines -->
 
     </div>
 <?php
@@ -56,7 +55,6 @@
         </a>
       </div>
     </div>
-    <hr/>
 <?php
     // <-- <-- Hard-coded.  Remove later.  <-- <--
   }
@@ -190,13 +188,17 @@
 
     <!-- Past events -->
     <?php
-      showPastEvents();
+      // showPastEvents();
     ?>
 
+    <hr/>
+
     <!-- Link to sign-up form -->
+    <!-- >>> Commented out until we have a sign-up form -- >
     <h6 class="py-2">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLScP7_LHHiBiykztDq8usdPlBrmZCGDSoFgIJYOxIUuwByxegw/viewform?usp=pp_url&entry.238260412=No&entry.1029755686=No" target="_blank" >Sign up</a> for Lawrence CCA updates.
     </h6>
+    <!-- <<< Commented out until we have a sign-up form -->
 
     <!-- Vertical space so text can be scrolled above background clip art -->
     </br>
