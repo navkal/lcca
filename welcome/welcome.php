@@ -9,13 +9,15 @@
   function showFeaturedAnnouncement()
   {
 ?>
-    <hr/>
     <div class="pl-4 py-2">
-      <div class="h5 py-1">
+      <div class="h3" style="padding-left: 30px; padding-top: 90px;">
         Stay tuned...
       </div>
 
       <!-- >>> More lines -- >
+      <div class="h5 pl-1">
+      </div>
+
       <div class="h6 py-1">
       </div>
 
@@ -168,10 +170,10 @@
     <h4>
       Let's bring
     </h4>
-    <h3>
+    <h3 class="pl-2">
       <span class="font-weight-bold"><a href="/?page=overview" class="dark-link" ><i>Community Choice Aggregation</i></a></span>
     </h3>
-    <h4>
+    <h4 class="pl-4">
       to Lawrence.
     </h4>
 
@@ -190,7 +192,6 @@
       // showPastEvents();
     ?>
 
-    <hr/>
 
     <!-- Link to sign-up form -->
     <!-- >>> Commented out until we have a sign-up form -- >
