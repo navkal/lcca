@@ -8,13 +8,13 @@
 
   function showFeaturedAnnouncement()
   {
-    // --> --> Hard-coded.  Remove later.  --> -->
 ?>
     <hr/>
     <div class="pl-4 py-2">
       <div class="h5 py-1">
         Stay tuned...
       </div>
+
       <!-- >>> More lines -- >
       <div class="h6 py-1">
       </div>
@@ -25,7 +25,6 @@
 
     </div>
 <?php
-    // <-- <-- Hard-coded.  Remove later.  <-- <--
   }
 
 
