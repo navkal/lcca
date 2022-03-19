@@ -96,7 +96,7 @@ var g_aQa =
     a:
       '<ol>' +
       '  <li>' +
-      '    Authorization by City Council to develop aggregation plan' +
+      '    Authorization by City Council to develop an aggregation plan' +
       '  </li>' +
       '  <li>' +
       '    Selection of energy broker to help design plan' +

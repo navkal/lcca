@@ -13,7 +13,7 @@
     <hr/>
     <div class="pl-4 py-2">
       <div class="h5 py-1">
-        Learn all about it on these pages.
+        Stay tuned...
       </div>
       <!-- >>> More lines -- >
       <div class="h6 py-1">
