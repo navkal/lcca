@@ -4,7 +4,7 @@
   $aEvents =
   [
    [
-      'show' => true,
+      'show' => false,
       'when' =>
       [
         'text' => 'Wednesday, September 9, 7 - 8 pm',
@@ -45,7 +45,7 @@
       ],
     ],
     [
-      'show' => true,
+      'show' => false,
       'when' =>
       [
         'text' => 'Saturday, September 12, 9:30 am',
