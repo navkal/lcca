@@ -10,3 +10,19 @@
   define ( 'NGBS', NG . ' ' . BS );
   include "../common/main.php";
 ?>
+
+<script>
+  $( document ).ready( modifyFooter );
+  function modifyFooter()
+  {
+    // Adjust height
+    $( '#footer' ).css( 'padding-top', '5px' )
+    $( '#footer' ).css( 'padding-bottom', '6px' )
+
+    // Remove border
+    $('#footer').css( 'border', 'none' );
+
+    // Remove background color
+    $('#footer.bg-light').removeClass( 'bg-light' );
+  }
+</script>
