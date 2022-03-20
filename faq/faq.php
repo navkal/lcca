@@ -232,6 +232,10 @@ function onDocumentReady()
 
   // Set search handler
   $( '#search-input' ).on( 'input', onSearchInput );
+
+  // Set handler to show or hide footer
+  $( window ).on( 'resize', updateFooter );
+  updateFooter();
 }
 
 function makeFaq()
@@ -285,6 +289,24 @@ function makeFaqForBrochure()
   $( '#faq' ).html( sHtml );
 }
 
+// Show or hide footer to prevent conflict with faq content
+function updateFooter()
+{
+  // Show footer if there is enough space below faq area
+  if ( ( $( window ).outerHeight() - $( '#faq' ).height() ) > 200 )
+  {
+    $( '#footer' ).show();
+  }
+  else
+  {
+    $( '#footer' ).hide();
+  }
+
+  // Reset collapse handlers
+  $( '.collapse' ).off( 'shown.bs.collapse' ).on( 'shown.bs.collapse', updateFooter )
+  $( '.collapse' ).off( 'hidden.bs.collapse' ).on( 'hidden.bs.collapse', updateFooter )
+}
+
 // Define jQuery selector for case-insensitive search
 $.expr[':'].icontains = function( tElement, iNotUsed, aMatch )
 {
@@ -326,6 +348,8 @@ function onSearchInput()
     $( '#search-text' ).html( sText );
     $( '#search-text-not-found' ).show();
   }
+
+  updateFooter();
 }
 
 function highlightSearchText( sText, aShow )
