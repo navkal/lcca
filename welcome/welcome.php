@@ -201,34 +201,7 @@
     <!-- <<< Commented out until we have a sign-up form -->
 
     <!-- Vertical space so text can be scrolled above background clip art -->
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-
+    <div style="height:1000px">
 
   </div>
 </div>
