@@ -292,8 +292,10 @@ function makeFaqForBrochure()
 // Show or hide footer to prevent conflict with faq content
 function updateFooter()
 {
+  var iFaqBottom = $( '#faq' ).position().top + $( '#faq' ).outerHeight();
+
   // Show footer if there is enough space below faq area
-  if ( ( $( window ).outerHeight() - $( '#faq' ).height() ) > 200 )
+  if ( ( $( window ).outerHeight() - iFaqBottom ) > 200 )
   {
     $( '#footer' ).show();
   }
