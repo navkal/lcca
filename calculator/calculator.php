@@ -1981,6 +1981,7 @@ input.error
   {
     if ( bShow )
     {
+      $( '#footer' ).hide();
       $( '#output' ).show();
       resizeBackdrop();
       scrollToResults();
@@ -1988,6 +1989,7 @@ input.error
     else
     {
       $( '#output' ).hide();
+      $( '#footer' ).show();
     }
   }
 

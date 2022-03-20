@@ -17,7 +17,7 @@
   {
     // Adjust height
     $( '#footer' ).css( 'padding-top', '5px' )
-    $( '#footer' ).css( 'padding-bottom', '6px' )
+    $( '#footer' ).css( 'padding-bottom', '7px' )
 
     // Remove border
     $('#footer').css( 'border', 'none' );
