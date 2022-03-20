@@ -10,7 +10,7 @@
   {
 ?>
     <div class="pl-4 py-2">
-      <div class="h3" style="padding-left: 30px; padding-top: 90px;">
+      <div class="h3" style="padding-left: 20px; padding-top: 70px;">
         Stay tuned...
       </div>
 
