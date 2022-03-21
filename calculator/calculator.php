@@ -75,7 +75,7 @@ input.error
   </div>
 
   <p>
-    CCA has the potential to increase your use of renewable energy while reducing your electricity costs.  Use the <i>CCA Bill Estimator</i> below to assess the potential impact of CCA on your electric bill.
+    CCA has the potential to increase your use of renewable energy while reducing your electricity costs.  Use the <i>CCA Bill Calculator</i> below to assess the potential impact of CCA on your electric bill.
   </p>
   <button type="button" id="help-button" class="btn btn-sm btn-info" data-toggle="modal" data-target="#help-modal">
     Instructions
@@ -83,7 +83,7 @@ input.error
   <hr/>
 
   <div class="h6 pb-3">
-    CCA Bill Estimator
+    CCA Bill Calculator
   </div>
 
   <!-- Input -->
@@ -327,7 +327,7 @@ input.error
   <div class="modal-dialog modal-md" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">CCA Bill Estimator</h5>
+        <h5 class="modal-title" id="exampleModalLabel">CCA Bill Calculator</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -335,7 +335,7 @@ input.error
       <div class="modal-body">
         <small>
           <p>
-            The CCA Bill Estimator uses your meter readings to show what you would have paid under actual CCA contracts negotiated by nearby towns.
+            The CCA Bill Calculator uses your meter readings to show what you would have paid under actual CCA contracts negotiated by nearby towns.
           </p>
 
           <div>
