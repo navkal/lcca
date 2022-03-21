@@ -61,6 +61,7 @@
     </ol>
   </p>
 
+  <!-- >>> Commented out until we have supporting organizations -- >
   <p>
     Lawrence CCA is supported by the following local organizations:
     <ul>
@@ -72,6 +73,7 @@
       </li>
     </ul>
   </p>
+  <!-- <<< Commented out until we have supporting organizations -->
 
   <hr/>
   <p>
