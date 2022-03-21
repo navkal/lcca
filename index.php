@@ -15,9 +15,9 @@
   $( document ).ready( setupNavbars );
   function setupNavbars()
   {
-    // Change source of brand icon
-    $( '.navbar-brand img' ).attr( 'src', 'lcca.svg' );
+    // Reload brand icon from svg source
     $( '.navbar-brand img' ).css( 'height', '32px' );
+    $( '.navbar-brand img' ).attr( 'src', 'brand.svg' );
 
     // Adjust footer height, border, background color
     $( '#footer' ).css( 'padding-top', '5px' )
