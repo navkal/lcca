@@ -16,7 +16,6 @@
   function setupNavbars()
   {
     // Reload brand icon from svg source
-    $( '.navbar-brand img' ).css( 'height', '32px' );
     $( '.navbar-brand img' ).attr( 'src', 'brand.svg' );
 
     // Adjust footer height, border, background color
