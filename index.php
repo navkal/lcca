@@ -12,17 +12,17 @@
 ?>
 
 <script>
-  $( document ).ready( modifyFooter );
-  function modifyFooter()
+  $( document ).ready( setupNavbars );
+  function setupNavbars()
   {
-    // Adjust height
+    // Change source of brand icon
+    $( '.navbar-brand img' ).attr( 'src', 'lcca.svg' );
+    $( '.navbar-brand img' ).css( 'height', '32px' );
+
+    // Adjust footer height, border, background color
     $( '#footer' ).css( 'padding-top', '5px' )
     $( '#footer' ).css( 'padding-bottom', '7px' )
-
-    // Remove border
     $('#footer').css( 'border', 'none' );
-
-    // Remove background color
     $('#footer.bg-light').removeClass( 'bg-light' );
   }
 </script>
