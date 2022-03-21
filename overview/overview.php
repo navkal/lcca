@@ -33,7 +33,7 @@
   </p>
 
   <p>
-    Through CCA, Lawrence would be able to purchase energy with a higher renewable content than required by the Massachusetts Renewable Portfolio Standard, in keeping with the town's values as a designated Massachusetts Green Community.
+    Through CCA, Lawrence would be able to purchase energy with a higher renewable content than required by the Massachusetts Renewable Portfolio Standard, in keeping with the city's values as a designated Massachusetts Green Community.
   </p>
 
   <p>
@@ -41,7 +41,7 @@
   </p>
 
   <p>
-    <a href="https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section134" target="_blank">Massachusetts General Law, M.G.L. c. 164 sec. 134</a>, outlines CCA rules.  To implement CCA in Lawrence, the town must take the following steps:
+    <a href="https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section134" target="_blank">Massachusetts General Law, M.G.L. c. 164 sec. 134</a>, outlines CCA rules.  To implement CCA in Lawrence, the city must take the following steps:
     <ol>
       <li>
         In City Council, authorize Lawrence to develop an aggregation plan
