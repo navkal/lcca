@@ -107,7 +107,7 @@
 <style>
   body
   {
-    background-image: url( "welcome/welcome.jpg" );
+    background-image: url( "welcome/welcome.svg" );
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
