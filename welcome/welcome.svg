@@ -7,7 +7,6 @@ viewBox="0 0 4800 2700"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#373435;stroke-width:2.08346}
     .fil16 {fill:#B9CA61}
     .fil9 {fill:#D0E2BC}
     .fil15 {fill:#DCEFF2}
@@ -31,14 +30,19 @@ viewBox="0 0 4800 2700"
     .fil4 {fill:#B9D7F1}
     .fil3 {fill:#C9DEAB}
     .fil5 {fill:#DEDFDF}
-    .fil0 {fill:#F1F9FD}
+    .fil0 {fill:url(#id0)}
    ]]>
   </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="2400" y1="0" x2="2400" y2="2700">
+   <stop offset="0" style="stop-color:#C7EAFB"/>
+   <stop offset="0.14902" style="stop-color:#DCF1FC"/>
+   <stop offset="1" style="stop-color:#F1F9FD"/>
+  </linearGradient>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_713596800">
-   <rect class="fil0 str0" width="4800" height="2700"/>
+  <g id="_823585536">
+   <rect class="fil0" width="4800" height="2700"/>
    <g>
     <g>
      <g>
