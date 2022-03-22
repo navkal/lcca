@@ -10,17 +10,17 @@
   {
 ?>
     <div class="pl-4 py-2">
-      <div class="h3" style="padding-left: 20px; padding-top: 80px;">
-        Stay tuned...
+
+
+      <div class="h5 pl-1" style="padding-left: 20px; padding-top: 70px;">
+        Learn all about it here,
+      </div>
+
+      <div class="h5 pl-1">
+        and stay tuned...
       </div>
 
       <!-- >>> More lines -- >
-      <div class="h5 pl-1">
-      </div>
-
-      <div class="h6 py-1">
-      </div>
-
       <div class="h6 py-1">
       </div>
       <!-- <<< More lines -->
