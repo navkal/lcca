@@ -5,7 +5,7 @@
 ?>
 
 <div class="text-center">
-  <img src="basicservice/basicservice.jpg" class="img-fluid" style="margin:auto; width:100%; max-width:600px" alt="<?=BS?>">
+  <img src="basicservice/basicservice.svg" class="img-fluid" style="margin:auto; width:100%; max-width:600px" alt="<?=BS?>">
 </div>
 
 <div class="container mt-4">
