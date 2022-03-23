@@ -34,14 +34,14 @@ viewBox="0 0 4800 2700"
    ]]>
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="2400" y1="0" x2="2400" y2="2700">
-   <stop offset="0" style="stop-color:#C7EAFB"/>
-   <stop offset="0.14902" style="stop-color:#DCF1FC"/>
-   <stop offset="1" style="stop-color:#F1F9FD"/>
+   <stop offset="0" style="stop-color:#E7F5FD"/>
+   <stop offset="0.25098" style="stop-color:#F2F9FD"/>
+   <stop offset="1" style="stop-color:#FEFEFE"/>
   </linearGradient>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_747837056">
+  <g id="_759913280">
    <rect class="fil0" width="4800" height="2700"/>
    <g>
     <g>
