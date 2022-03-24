@@ -112,7 +112,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    overscroll-behavior: contain;
+    overscroll-behavior: none;
   }
 
   .jumbotron
