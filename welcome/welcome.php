@@ -112,7 +112,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    overscroll-behavior: none;
+    background-color: red;
   }
 
   .jumbotron
