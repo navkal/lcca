@@ -112,7 +112,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: red;
+    background-color: #e6e7e8;  // Matches color of overscroll area to gray outlines in welcome.svg
   }
 
   .jumbotron
