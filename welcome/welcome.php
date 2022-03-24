@@ -105,16 +105,8 @@
 ?>
 
 <style>
-html {
-    overflow: hidden;
-    height: 100%;
-}
-
-
   body
   {
-    overflow: auto;
-    height: 100%;
     background-image: url( "welcome/welcome.svg" );
     background-position: center top;
     background-repeat: no-repeat;
