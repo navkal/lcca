@@ -15,8 +15,12 @@
   $( document ).ready( setupNavbars );
   function setupNavbars()
   {
+    alert( $( 'html' ).css( 'overscroll-behavior' ) );
+    alert( $( 'html' ).css( 'margin' ) );
+    $( 'html' ).css( 'overscroll-behavior', 'none' )
+    alert( $( 'html' ).css( 'overscroll-behavior' ) );
     // Reload brand icon from svg source
-  $( '.navbar-brand img' ).css( 'height', '33px' );
+    $( '.navbar-brand img' ).css( 'height', '33px' );
     $( '.navbar-brand img' ).attr( 'src', 'brand.svg' );
 
     // Adjust footer height, border, background color
