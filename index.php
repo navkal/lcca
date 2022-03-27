@@ -15,9 +15,6 @@
   $( document ).ready( setupNavbars );
   function setupNavbars()
   {
-    alert( $( 'html' ).css( 'overscroll-behavior' ) );
-    $( 'html' ).css( 'overscroll-behavior', 'contain' )
-    alert( $( 'html' ).css( 'overscroll-behavior' ) );
     // Reload brand icon from svg source
     $( '.navbar-brand img' ).css( 'height', '33px' );
     $( '.navbar-brand img' ).attr( 'src', 'brand.svg' );
