@@ -608,7 +608,7 @@ input.error
     'Brookline Basic':
     {
       is_default: false,
-      url: 'https://www.brooklinema.gov/1341/Energy-Choices',
+      url: 'https://brooklinegreen.com/electricity-options/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
@@ -620,7 +620,7 @@ input.error
     'Brookline Green':
     {
       is_default: true,
-      url: 'https://www.brooklinema.gov/1341/Energy-Choices',
+      url: 'https://brooklinegreen.com/electricity-options/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 30,
@@ -632,7 +632,7 @@ input.error
     'Brookline Green 65':
     {
       is_default: false,
-      url: 'https://www.brooklinema.gov/1341/Energy-Choices',
+      url: 'https://brooklinegreen.com/electricity-options/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 65,
@@ -644,7 +644,7 @@ input.error
     'Brookline All Green':
     {
       is_default: false,
-      url: 'https://www.brooklinema.gov/1341/Energy-Choices',
+      url: 'https://brooklinegreen.com/electricity-options/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 100,
