@@ -440,50 +440,50 @@ input.error
     'Arlington Basic':
     {
       is_default: false,
-      url: 'https://arlingtoncca.com/',
+      url: 'https://ace.arlingtonma.gov/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2019-12',
-      end: '2022-11',
-      rate: 10.699
+      start: '2022-11',
+      end: '2024-11',
+      rate: 16.090
     },
     'Arlington Local Green':
     {
       is_default: true,
-      url: 'https://arlingtoncca.com/',
+      url: 'https://ace.arlingtonma.gov/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 11,
-      local: g_nMinimumLocalGreen + 11,
-      start: '2019-12',
-      end: '2022-11',
-      rate: 11.029
+      green: g_nMinimumTotalGreen + 30,
+      local: g_nMinimumLocalGreen + 30,
+      start: '2022-11',
+      end: '2024-11',
+      rate: 17.200
     },
     'Arlington Local Greener':
     {
       is_default: false,
-      url: 'https://arlingtoncca.com/',
+      url: 'https://ace.arlingtonma.gov/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 50,
       local: g_nMinimumLocalGreen + 50,
-      start: '2019-12',
-      end: '2022-11',
-      rate: 12.199
+      start: '2022-11',
+      end: '2024-11',
+      rate: 17.940
     },
     'Arlington Local Greenest':
     {
       is_default: false,
-      url: 'https://arlingtoncca.com/',
+      url: 'https://ace.arlingtonma.gov/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 100,
       local: g_nMinimumLocalGreen + 100,
-      start: '2019-12',
-      end: '2022-11',
-      rate: 13.699
+      start: '2022-11',
+      end: '2024-11',
+      rate: 19.790
     },
     'Ashland':
     {
