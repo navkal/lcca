@@ -1273,9 +1273,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2022-08',
-      end: '2022-11',
-      rate: 15.849
+      start: '2022-11',
+      end: '2023-11',
+      rate: 20.244
     },
     'Winchester Basic':
     {
