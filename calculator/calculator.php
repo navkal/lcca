@@ -913,9 +913,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-12',
-      end: '2022-12',
-      rate: 14.974
+      start: '2022-12',
+      end: '2023-07',
+      rate: 29.984
     },
     'Lexington Basic':
     {
