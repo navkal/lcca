@@ -13,7 +13,7 @@
 
 
       <div class="h5 pl-1" style="padding-left: 20px; padding-top: 70px;">
-        Learn about it here,
+        Learn about it <a href="/?page=overview" >here</a>,
       </div>
 
       <div class="h5 pl-1">
