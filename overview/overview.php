@@ -18,9 +18,6 @@
     CCA offers the following <i>potential</i> benefits to consumers:
     <ul>
       <li>
-        Higher percentage of local renewable energy
-      </li>
-      <li>
         Rate stability
       </li>
       <li>
@@ -28,6 +25,9 @@
       </li>
       <li>
         Trustworthy alternative to scams from third-party suppliers
+      </li>
+      <li>
+        Higher percentage of local renewable energy
       </li>
     </ul>
   </p>
