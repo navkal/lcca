@@ -623,8 +623,8 @@ input.error
       url: 'https://brooklinegreen.com/electricity-options/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 90,
-      local: g_nMinimumLocalGreen + 90,
+      green: g_nMinimumTotalGreen + 36, // In Dec 2023, change 36 to 45. https://brooklinegreen.com/Above100/
+      local: g_nMinimumLocalGreen + 36, // In Dec 2023, change 36 to 45. https://brooklinegreen.com/Above100/
       start: '2022-12',
       end: '2024-12',
       rate: 17.784
