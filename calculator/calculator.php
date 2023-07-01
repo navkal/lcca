@@ -1309,13 +1309,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen + 30,
       local: g_nMinimumLocalGreen + 30,
-      start: '2022-12',
-      end: '2023-07',
-      rate: 25.632
-      // Price change coming in July 2023. Use the following:
-      // start: '2023-07',
-      // end: '2023-12',
-      // rate: 16.912
+      start: '2023-07',
+      end: '2023-12',
+      rate: 16.912
     },
     'Worcester 100% Green':
     {
@@ -1325,13 +1321,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2022-12',
-      end: '2023-07',
-      rate: 27.491
-      // Price change coming in July 2023. Use the following:
-      // start: '2023-07',
-      // end: '2023-12',
-      // rate: 18.763
+      start: '2023-07',
+      end: '2023-12',
+      rate: 18.763
     },
   };
 
