@@ -11,9 +11,9 @@
       'readings' => [  490,  702,  484,  696,  413,  344,  398,  395,  327,  288,  377,  342,  468 ]
     ],
     [
-      'description' => '4-bedroom house, A/C',
-      'start_month' => '12.19',
-      'readings' => [  826,  797,  618,  704,  819,  762,  924, 1449, 1546,  987,  547,  646,  884 ]
+      'description' => '2-bedroom rental in 2-family house',
+      'start_month' => '5.21',
+      'readings' => [  470,  558,  824,  664,  816,  634,  522,  524,  516,  451,  447,  522,  445 ]
     ],
     [
       'description' => '4-bedroom house, A/C',
