@@ -6,9 +6,9 @@
   $g_aSampleCustomers =
   [
     [
-      'description' => '3-bedroom house, no A/C',
-      'start_month' => '4.18',
-      'readings' => [  380,  372,  621,  654,  785,  883,  527,  572,  459,  619,  681,  676,  353 ]
+      'description' => '2-bedroom rental in 2-family house',
+      'start_month' => '6.22',
+      'readings' => [  490,  702,  484,  696,  413,  344,  398,  395,  327,  288,  377,  342,  468 ]
     ],
     [
       'description' => '4-bedroom house, A/C',
