@@ -1081,9 +1081,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-06',
-      end: '2023-10',
-      rate: 12.560
+      start: '2023-10',
+      end: '2025-10',
+      rate: 15.543
     },
     'North Andover Optional':
     {
@@ -1091,11 +1091,11 @@ input.error
       url: 'https://colonialpowergroup.com/north-andover',
       broker: 'Colonial Power Group',
       broker_url: 'https://colonialpowergroup.com/',
-      green: g_nMinimumTotalGreen + 49,
+      green: g_nMinimumTotalGreen + 41,
       local: g_nMinimumLocalGreen,
-      start: '2023-06',
-      end: '2023-10',
-      rate: 12.716
+      start: '2023-10',
+      end: '2025-10',
+      rate: 15.751
     },
     'Sudbury Basic':
     {
