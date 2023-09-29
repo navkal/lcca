@@ -574,36 +574,36 @@ input.error
       is_default: false,
       url: 'https://www.cityofbostoncce.com/',
       broker: 'Constellation NewEnergy',
-      broker_url: 'https://www.constellation.com/solutions/for-government/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
+      broker_url: 'https://www.constellation.com/solutions/for-your-home/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-11',
-      end: '2023-12',
-      rate: 10.771
+      start: '2023-12',
+      end: '2025-12',
+      rate: 14.205
     },
     'Boston Standard':
     {
       is_default: true,
       url: 'https://www.cityofbostoncce.com/',
       broker: 'Constellation NewEnergy',
-      broker_url: 'https://www.constellation.com/solutions/for-government/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
-      green: g_nMinimumTotalGreen + 10,
-      local: g_nMinimumLocalGreen + 10,
-      start: '2021-11',
-      end: '2023-12',
-      rate: 11.161
+      broker_url: 'https://www.constellation.com/solutions/for-your-home/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
+      green: g_nMinimumTotalGreen + 15,
+      local: g_nMinimumLocalGreen + 15,
+      start: '2023-12',
+      end: '2025-12',
+      rate: 14.805
     },
     'Boston Optional Green 100':
     {
       is_default: false,
       url: 'https://www.cityofbostoncce.com/',
       broker: 'Constellation NewEnergy',
-      broker_url: 'https://www.constellation.com/solutions/for-government/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
+      broker_url: 'https://www.constellation.com/solutions/for-your-home/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
       green: 100,
       local: 100,
-      start: '2021-11',
-      end: '2023-12',
-      rate: 13.858
+      start: '2023-12',
+      end: '2025-12',
+      rate: 17.195
     },
     'Brookline Basic':
     {
