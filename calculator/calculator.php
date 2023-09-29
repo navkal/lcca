@@ -709,9 +709,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2020-11',
-      end: '2023-11',
-      rate: 10.042
+      start: '2023-11',
+      end: '2025-11',
+      rate: 14.843
     },
     'Chelmsford Choice Greener':
     {
@@ -721,9 +721,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen + 40,
       local: g_nMinimumLocalGreen + 40,
-      start: '2020-11',
-      end: '2023-11',
-      rate: 11.484
+      start: '2023-11',
+      end: '2025-11',
+      rate: 16.415
     },
     'Chelmsford Choice Greenest':
     {
@@ -733,9 +733,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2020-11',
-      end: '2023-11',
-      rate: 13.015
+      start: '2023-11',
+      end: '2025-11',
+      rate: 17.849
     },
     'Dracut Default':
     {
