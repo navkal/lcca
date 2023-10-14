@@ -1259,11 +1259,11 @@ input.error
       url: 'https://colonialpowergroup.com/williamsburg/',
       broker: 'Colonial Power Group',
       broker_url: 'https://colonialpowergroup.com/',
-      green: g_nMinimumTotalGreen,
+      green: g_nMinimumTotalGreen + 41,
       local: g_nMinimumLocalGreen,
-      start: '2022-11',
-      end: '2023-11',
-      rate: 20.244
+      start: '2023-11',
+      end: '2025-11',
+      rate: 14.391
     },
     'Winchester Basic':
     {
