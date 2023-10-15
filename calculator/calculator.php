@@ -1205,7 +1205,7 @@ input.error
       end: '2023-12',
       rate: 15.638
     },
-    'Westford POP Basic':
+    'Westford Basic':
     {
       is_default: false,
       url: 'https://masscea.com/westford/',
@@ -1213,11 +1213,11 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-01',
-      end: '2023-12',
-      rate: 10.470
+      start: '2023-12',
+      end: '2025-11',
+      rate: 15.784
     },
-    'Westford POP Green':
+    'Westford Standard':
     {
       is_default: true,
       url: 'https://masscea.com/westford/',
@@ -1225,33 +1225,21 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 10,
       local: g_nMinimumLocalGreen + 10,
-      start: '2021-01',
-      end: '2023-12',
-      rate: 10.793
+      start: '2023-12',
+      end: '2025-11',
+      rate: 16.178
     },
-    'Westford POP Silver 50%':
+    'Westford Plus':
     {
       is_default: false,
       url: 'https://masscea.com/westford/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 50,
-      local: g_nMinimumLocalGreen + 50,
-      start: '2021-01',
-      end: '2023-12',
-      rate: 12.083
-    },
-    'Westford POP Gold 100%':
-    {
-      is_default: false,
-      url: 'https://masscea.com/westford/',
-      broker: 'Good Energy',
-      broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 100,
-      local: g_nMinimumLocalGreen + 100,
-      start: '2021-01',
-      end: '2023-12',
-      rate: 13.695
+      green: 100,
+      local: 100,
+      start: '2023-12',
+      end: '2025-11',
+      rate: 17.282
     },
     'Williamsburg':
     {
