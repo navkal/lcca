@@ -1295,11 +1295,11 @@ input.error
       url: 'https://masspowerchoice.com/worcester/options-prices',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
-      green: g_nMinimumTotalGreen + 30,
-      local: g_nMinimumLocalGreen + 30,
-      start: '2023-07',
-      end: '2023-12',
-      rate: 16.912
+      green: g_nMinimumTotalGreen + 40,
+      local: g_nMinimumLocalGreen + 40,
+      start: '2023-12',
+      end: '2025-12',
+      rate: 16.310
     },
     'Worcester 100% Green':
     {
@@ -1309,9 +1309,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2023-07',
-      end: '2023-12',
-      rate: 18.763
+      start: '2023-12',
+      end: '2025-12',
+      rate: 17.730
     },
   };
 
