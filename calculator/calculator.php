@@ -737,7 +737,7 @@ input.error
       end: '2025-11',
       rate: 17.849
     },
-    'Dracut Default':
+    'Dracut Standard':
     {
       is_default: true,
       url: 'https://masscea.com/dracut/',
@@ -745,23 +745,11 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-01',
-      end: '2023-12',
-      rate: 10.470
+      start: '2023-12',
+      end: '2025-11',
+      rate: 15.784
     },
-    'Dracut Local Green 50%':
-    {
-      is_default: false,
-      url: 'https://masscea.com/dracut/',
-      broker: 'Good Energy',
-      broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 50,
-      local: g_nMinimumLocalGreen + 50,
-      start: '2021-01',
-      end: '2023-12',
-      rate: 12.244
-    },
-    'Dracut Local Green 100%':
+    'Dracut Plus':
     {
       is_default: false,
       url: 'https://masscea.com/dracut/',
@@ -769,9 +757,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 100,
       local: g_nMinimumLocalGreen + 100,
-      start: '2021-01',
-      end: '2023-12',
-      rate: 14.019
+      start: '2023-12',
+      end: '2025-11',
+      rate: 17.372
     },
     'Gill Optional Green 5':
     {
