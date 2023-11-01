@@ -997,9 +997,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2022-12',
-      end: '2023-12',
-      rate: 20.738
+      start: '2023-12',
+      end: '2025-12',
+      rate: 14.680
     },
     'Natick Standard Green':
     {
@@ -1007,11 +1007,11 @@ input.error
       url: 'https://masspowerchoice.com/natick',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
-      green: g_nMinimumTotalGreen + 19,
-      local: g_nMinimumLocalGreen + 19,
-      start: '2022-12',
-      end: '2023-12',
-      rate: 21.398
+      green: g_nMinimumTotalGreen + 22,       // In Dec 2024, change 22 to 25.
+      local: g_nMinimumLocalGreen + 22,       // In Dec 2024, change 22 to 25.
+      start: '2023-12',
+      end: '2025-12',
+      rate: 15.561
     },
     'Natick 100% Green':
     {
@@ -1021,9 +1021,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2022-12',
-      end: '2023-12',
-      rate: 23.624
+      start: '2023-12',
+      end: '2025-12',
+      rate: 17.474
     },
     'Newton Basic':
     {
