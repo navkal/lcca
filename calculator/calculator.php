@@ -491,11 +491,11 @@ input.error
       url: 'https://colonialpowergroup.com/ashland/',
       broker: 'Colonial Power Group',
       broker_url: 'https://colonialpowergroup.com/',
-      green: 100,
-      local: g_nMinimumLocalGreen,
-      start: '2020-12',
-      end: '2023-12',
-      rate: 10.409
+      green: g_nMinimumTotalGreen + 25,
+      local: g_nMinimumLocalGreen + 25,
+      start: '2023-12',
+      end: '2025-12',
+      rate: 15.988
     },
     'Bedford Basic':
     {
