@@ -409,9 +409,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2022-09',
-      end: '2023-12',
-      rate: 17.766
+      start: '2023-12',
+      end: '2026-12',
+      rate: 14.411
     },
     'Acton Power Choice Standard':
     {
@@ -419,11 +419,11 @@ input.error
       url: 'https://masspowerchoice.com/acton/options-pricing',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
-      green: g_nMinimumTotalGreen + 40,
-      local: g_nMinimumLocalGreen + 40,
-      start: '2022-09',
-      end: '2023-12',
-      rate: 19.286
+      green: g_nMinimumTotalGreen + 45,
+      local: g_nMinimumLocalGreen + 45,
+      start: '2023-12',
+      end: '2026-12',
+      rate: 16.031
     },
     'Acton Power Choice Green':
     {
@@ -433,9 +433,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2022-09',
-      end: '2023-12',
-      rate: 20.750
+      start: '2023-12',
+      end: '2026-12',
+      rate: 17.039
     },
     'Arlington Basic':
     {
