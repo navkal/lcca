@@ -685,9 +685,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-01',
-      end: '2024-01',
-      rate: 10.640
+      start: '2024-01',
+      end: '2026-01',
+      rate: 15.025
     },
     'Carlisle Standard':
     {
@@ -695,11 +695,11 @@ input.error
       url: 'https://colonialpowergroup.com/carlisle/',
       broker: 'Colonial Power Group',
       broker_url: 'https://colonialpowergroup.com/',
-      green: 100,
-      local: g_nMinimumLocalGreen,
-      start: '2021-01',
-      end: '2024-01',
-      rate: 11.450
+      green: g_nMinimumTotalGreen + 25,
+      local: g_nMinimumLocalGreen + 25,
+      start: '2024-01',
+      end: '2026-01',
+      rate: 15.989
     },
     'Carlisle Optional Green 100':
     {
@@ -709,9 +709,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: 100,
       local: 100,
-      start: '2021-01',
-      end: '2024-01',
-      rate: 13.940
+      start: '2024-01',
+      end: '2026-01',
+      rate: 17.896
     },
     'Chelmsford Choice Basic':
     {
