@@ -641,17 +641,29 @@ input.error
       end: '2024-12',
       rate: 18.681
     },
+    'Cambridge Economy Green':
+    {
+      is_default: false,
+      url: 'http://masspowerchoice.com/cambridge',
+      broker: 'Mass Power Choice',
+      broker_url: 'https://masspowerchoice.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2024-01',
+      end: '2026-01',
+      rate: 13.82
+    },
     'Cambridge Standard Green':
     {
       is_default: true,
       url: 'http://masspowerchoice.com/cambridge',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
-      green: g_nMinimumTotalGreen,
-      local: g_nMinimumLocalGreen,
-      start: '2021-01',
-      end: '2024-01',
-      rate: 10.20
+      green: 50,
+      local: 50,
+      start: '2024-01',
+      end: '2026-01',
+      rate: 14.81
     },
     'Cambridge 100% Green Plus':
     {
@@ -661,9 +673,9 @@ input.error
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2021-01',
-      end: '2024-01',
-      rate: 13.669
+      start: '2024-01',
+      end: '2026-01',
+      rate: 16.82
     },
     'Carlisle Optional Basic':
     {
