@@ -99,16 +99,16 @@ var g_aQa =
       '    Authorization by City Council to develop an aggregation plan' +
       '  </li>' +
       '  <li>' +
-      '    Selection of energy broker to help design plan' +
+      '    Selection of an energy broker to help design the plan' +
       '  </li>' +
       '  <li>' +
-      '    Development of plan by city government, broker, and MA DOER' +
+      '    Development of the plan by city government and broker' +
       '  </li>' +
       '  <li>' +
-      '    Approval of plan by City Council' +
+      '    Approval of the plan by City Council' +
       '  </li>' +
       '  <li>' +
-      '    Submission of plan to MA DPU for final approval' +
+      '    Submission of the plan to MA DOER/DPU for review and approval' +
       '  </li>' +
       '</ol>'
   },

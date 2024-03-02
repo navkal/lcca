@@ -44,19 +44,19 @@
     <a href="https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section134" target="_blank">Massachusetts General Law, M.G.L. c. 164 sec. 134</a>, outlines CCA rules.  To implement CCA in Lawrence, the city must take the following steps:
     <ol>
       <li>
-        In City Council, authorize Lawrence to develop an aggregation plan
+        Authorization by City Council to develop an aggregation plan
       </li>
       <li>
-        Engage an energy broker to help design the plan
+        Selection of an energy broker to help design the plan
       </li>
       <li>
-        Develop the plan in consultation with MA Department of Energy Resources
+        Development of the plan by city government and broker
       </li>
       <li>
-        Approve the aggregation plan in City Council
+        Approval of the plan by City Council
       </li>
       <li>
-        Submit the plan to MA Department of Public Utilities for final approval
+        Submission of the plan to MA DOER/DPU for review and approval
       </li>
     </ol>
   </p>
