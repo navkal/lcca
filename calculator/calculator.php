@@ -437,6 +437,42 @@ input.error
       end: '2026-12',
       rate: 17.039
     },
+   'Andover Basic':
+    {
+      is_default: false,
+      url: 'https://acp.andoverma.gov/',
+      broker: 'Good Energy',
+      broker_url: 'http://goodenergy.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2024-06',
+      end: '2027-06',
+      rate: 13.286
+    },
+   'Andover Standard':
+    {
+      is_default: true,
+      url: 'https://acp.andoverma.gov/',
+      broker: 'Good Energy',
+      broker_url: 'http://goodenergy.com/',
+      green: g_nMinimumTotalGreen + 15,
+      local: g_nMinimumLocalGreen + 15,
+      start: '2024-06',
+      end: '2027-06',
+      rate: 13.905
+    },
+   'Andover Ultimate':
+    {
+      is_default: false,
+      url: 'https://acp.andoverma.gov/',
+      broker: 'Good Energy',
+      broker_url: 'http://goodenergy.com/',
+      green: 100,
+      local: 100,
+      start: '2024-06',
+      end: '2027-06',
+      rate: 14.637
+    },
     'Arlington Basic':
     {
       is_default: false,
@@ -767,8 +803,8 @@ input.error
       url: 'https://masscea.com/dracut/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 100,
-      local: g_nMinimumLocalGreen + 100,
+      green: 100,
+      local: 100,
       start: '2023-12',
       end: '2025-11',
       rate: 17.372
@@ -956,7 +992,7 @@ input.error
     'Melrose Basic':
     {
       is_default: false,
-      url: 'https://melrose-cea.com/',
+      url: 'https://mcp.cityofmelrose.org/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
@@ -968,7 +1004,7 @@ input.error
     'Melrose Local Green':
     {
       is_default: true,
-      url: 'https://melrose-cea.com/',
+      url: 'https://mcp.cityofmelrose.org/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 10,
@@ -980,7 +1016,7 @@ input.error
     'Melrose Local Green 100%':
     {
       is_default: false,
-      url: 'https://melrose-cea.com/',
+      url: 'https://mcp.cityofmelrose.org/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 100,
@@ -1271,8 +1307,8 @@ input.error
       url: 'https://winpowerma.com/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 100,
-      local: g_nMinimumLocalGreen + 100,
+      green: 100,
+      local: 100,
       start: '2022-12',
       end: '2024-12',
       rate: 16.611
