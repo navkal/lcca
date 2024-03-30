@@ -446,7 +446,7 @@ input.error
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
       start: '2024-06',
-      end: '2027-06',
+      end: '2027-12',
       rate: 13.286
     },
    'Andover Standard':
@@ -458,7 +458,7 @@ input.error
       green: g_nMinimumTotalGreen + 15,
       local: g_nMinimumLocalGreen + 15,
       start: '2024-06',
-      end: '2027-06',
+      end: '2027-12',
       rate: 13.905
     },
    'Andover Ultimate':
@@ -470,7 +470,7 @@ input.error
       green: 100,
       local: 100,
       start: '2024-06',
-      end: '2027-06',
+      end: '2027-12',
       rate: 14.637
     },
     'Arlington Basic':
@@ -1120,6 +1120,42 @@ input.error
       start: '2023-10',
       end: '2025-10',
       rate: 15.751
+    },
+   'Quincy Basic':
+    {
+      is_default: false,
+      url: 'https://quincycea.com/',
+      broker: 'Good Energy',
+      broker_url: 'http://goodenergy.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2024-06',
+      end: '2027-12',
+      rate: 13.394
+    },
+   'Quincy Standard':
+    {
+      is_default: true,
+      url: 'https://quincycea.com/',
+      broker: 'Good Energy',
+      broker_url: 'http://goodenergy.com/',
+      green: g_nMinimumTotalGreen + 10,
+      local: g_nMinimumLocalGreen + 10,
+      start: '2024-06',
+      end: '2027-12',
+      rate: 13.804
+    },
+   'Quincy Ultimate':
+    {
+      is_default: false,
+      url: 'https://quincycea.com/',
+      broker: 'Good Energy',
+      broker_url: 'http://goodenergy.com/',
+      green: 100,
+      local: 100,
+      start: '2024-06',
+      end: '2027-12',
+      rate: 14.737
     },
     'Sudbury Basic':
     {
