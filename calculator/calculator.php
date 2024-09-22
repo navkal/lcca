@@ -529,9 +529,21 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-12',
-      end: '2024-11',
-      rate: 10.197
+      start: '2024-11',
+      end: '2027-11',
+      rate: 13.300
+    },
+    'Bedford Mid':
+    {
+      is_default: false,
+      url: 'https://bedfordcca.com/',
+      broker: 'Good Energy',
+      broker_url: 'http://goodenergy.com/',
+      green: g_nMinimumTotalGreen + 15,
+      local: g_nMinimumLocalGreen + 15,
+      start: '2024-11',
+      end: '2027-11',
+      rate: 13.923
     },
     'Bedford Local Green':
     {
@@ -539,35 +551,11 @@ input.error
       url: 'https://bedfordcca.com/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 20,
-      local: g_nMinimumLocalGreen + 20,
-      start: '2021-12',
-      end: '2024-11',
-      rate: 10.927
-    },
-    'Bedford Local Green 50%':
-    {
-      is_default: false,
-      url: 'https://bedfordcca.com/',
-      broker: 'Good Energy',
-      broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 50,
-      local: g_nMinimumLocalGreen + 50,
-      start: '2021-12',
-      end: '2024-11',
-      rate: 12.022
-    },
-    'Bedford Local Green 100%':
-    {
-      is_default: false,
-      url: 'https://bedfordcca.com/',
-      broker: 'Good Energy',
-      broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 100,
-      local: g_nMinimumLocalGreen + 100,
-      start: '2021-12',
-      end: '2024-11',
-      rate: 13.847
+      green: 100,
+      local: 100,
+      start: '2024-11',
+      end: '2027-11',
+      rate: 14.620
     },
     'Billerica Standard':
     {
