@@ -995,8 +995,8 @@ input.error
       url: 'https://mcp.cityofmelrose.org/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: 100,
-      local: 100,
+      green: g_nMinimumTotalGreen + 100,
+      local: g_nMinimumLocalGreen + 100,
       start: '2024-11',
       end: '2027-12',
       rate: 15.599
