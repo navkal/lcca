@@ -1189,11 +1189,11 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-11',
-      end: '2024-11',
-      rate: 10.943
+      start: '2024-11',
+      end: '2026-11',
+      rate: 12.994
     },
-    'Tyngsborough Optional Green':
+    'Tyngsborough Optional':
     {
       is_default: false,
       url: 'https://colonialpowergroup.com/tyngsborough/',
@@ -1201,9 +1201,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: 100,
       local: g_nMinimumLocalGreen,
-      start: '2021-11',
-      end: '2024-11',
-      rate: 11.318
+      start: '2024-11',
+      end: '2026-11',
+      rate: 13.175
     },
     'Watertown Basic':
     {
