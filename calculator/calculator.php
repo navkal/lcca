@@ -1289,7 +1289,7 @@ input.error
       end: '2025-11',
       rate: 14.391
     },
-    'Winchester Basic':
+    'Winchester WinPower Basic':
     {
       is_default: false,
       url: 'https://winpowerma.com/',
@@ -1297,9 +1297,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2022-12',
-      end: '2024-12',
-      rate: 14.931
+      start: '2024-12',
+      end: '2027-12',
+      rate: 13.120
     },
     'Winchester WinPower Standard':
     {
@@ -1307,11 +1307,11 @@ input.error
       url: 'https://winpowerma.com/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 20,
-      local: g_nMinimumLocalGreen + 20,
-      start: '2022-12',
-      end: '2024-12',
-      rate: 15.671
+      green: g_nMinimumTotalGreen + 25,
+      local: g_nMinimumLocalGreen + 25,
+      start: '2024-12',
+      end: '2027-12',
+      rate: 14.151
     },
     'Winchester WinPower 100':
     {
@@ -1321,9 +1321,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: 100,
       local: 100,
-      start: '2022-12',
-      end: '2024-12',
-      rate: 16.611
+      start: '2024-12',
+      end: '2027-12',
+      rate: 14.403
     },
     'Worcester Standard Green':
     {
