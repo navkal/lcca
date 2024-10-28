@@ -625,9 +625,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2022-12',
-      end: '2024-12',
-      rate: 14.781
+      start: '2024-12',
+      end: '2027-12',
+      rate: 13.400
     },
     'Brookline Green':
     {
@@ -635,11 +635,11 @@ input.error
       url: 'https://brooklinegreen.com/electricity-options/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 45,
-      local: g_nMinimumLocalGreen + 45,
-      start: '2022-12',
-      end: '2024-12',
-      rate: 17.784
+      green: 100,
+      local: 100,
+      start: '2024-12',
+      end: '2027-12',
+      rate: 14.681
     },
     'Brookline All Green':
     {
@@ -649,9 +649,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 100,
       local: g_nMinimumLocalGreen + 100,
-      start: '2022-12',
-      end: '2024-12',
-      rate: 18.681
+      start: '2024-12',
+      end: '2027-12',
+      rate: 17.525
     },
     'Cambridge Economy Green':
     {
