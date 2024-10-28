@@ -829,9 +829,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2021-12',
-      end: '2024-12',
-      rate: 10.706
+      start: '2024-12',
+      end: '2027-12',
+      rate: 13.786
     },
     'Gloucester Local Green':
     {
@@ -839,11 +839,11 @@ input.error
       url: 'https://gloucester-cea.com/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 10,
-      local: g_nMinimumLocalGreen + 10,
-      start: '2021-12',
-      end: '2024-12',
-      rate: 11.071
+      green: g_nMinimumTotalGreen + 15,
+      local: g_nMinimumLocalGreen + 15,
+      start: '2024-12',
+      end: '2027-12',
+      rate: 14.405
     },
     'Gloucester 100% Local Green':
     {
@@ -851,11 +851,11 @@ input.error
       url: 'https://gloucester-cea.com/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 100,
-      local: g_nMinimumLocalGreen + 100,
-      start: '2021-12',
-      end: '2024-12',
-      rate: 14.356
+      green: 100,
+      local: 100,
+      start: '2024-12',
+      end: '2027-12',
+      rate: 15.065
     },
     'Hamilton Basic 0%':
     {
