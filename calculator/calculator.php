@@ -1193,7 +1193,19 @@ input.error
       end: '2025-11',
       rate: 16.455
     },
-    'Tewksbury':
+    'Tewksbury Optional Basic':
+    {
+      is_default: false,
+      url: 'https://colonialpowergroup.com/tewksbury/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2024-12',
+      end: '2026-12',
+      rate: 12.855
+    },
+    'Tewksbury Standard':
     {
       is_default: true,
       url: 'https://colonialpowergroup.com/tewksbury/',
@@ -1201,9 +1213,21 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen + 5,
       local: g_nMinimumLocalGreen + 5,
-      start: '2021-12',
-      end: '2024-12',
-      rate: 10.949
+      start: '2024-12',
+      end: '2026-12',
+      rate: 13.056
+    },
+    'Tewksbury Optional Green 25':
+    {
+      is_default: false,
+      url: 'https://colonialpowergroup.com/tewksbury/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: g_nMinimumTotalGreen + 25,
+      local: g_nMinimumLocalGreen + 25,
+      start: '2024-12',
+      end: '2026-12',
+      rate: 13.859
     },
     'Tyngsborough Standard':
     {
