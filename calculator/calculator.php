@@ -1043,8 +1043,8 @@ input.error
       url: 'https://masspowerchoice.com/natick',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
-      green: g_nMinimumTotalGreen + 22,       // In Dec 2024, change 22 to 25.
-      local: g_nMinimumLocalGreen + 22,       // In Dec 2024, change 22 to 25.
+      green: g_nMinimumTotalGreen + 25,
+      local: g_nMinimumLocalGreen + 25,
       start: '2023-12',
       end: '2025-12',
       rate: 15.561
