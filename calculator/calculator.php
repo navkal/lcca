@@ -953,7 +953,19 @@ input.error
       end: '2025-12',
       rate: 16.654
     },
-    'Lowell':
+    'Lowell Optional Green 5':
+    {
+      is_default: false,
+      url: 'https://colonialpowergroup.com/lowell/lowell-further-pricing/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: g_nMinimumTotalGreen + 5,
+      local: g_nMinimumLocalGreen + 5,
+      start: '2024-12',
+      end: '2027-12',
+      rate: 13.655
+    },
+    'Lowell Standard':
     {
       is_default: true,
       url: 'https://colonialpowergroup.com/lowell/lowell-further-pricing/',
@@ -961,9 +973,21 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen + 45,
       local: g_nMinimumLocalGreen + 45,
-      start: '2021-12',
-      end: '2024-12',
-      rate: 14.449
+      start: '2024-12',
+      end: '2027-12',
+      rate: 15.255
+    },
+    'Lowell Optional Green 100':
+    {
+      is_default: false,
+      url: 'https://colonialpowergroup.com/lowell/lowell-further-pricing/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: 100,
+      local: 100,
+      start: '2024-12',
+      end: '2027-12',
+      rate: 16.575
     },
     'Melrose Basic':
     {
