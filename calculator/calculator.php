@@ -6,19 +6,19 @@
   $g_aSampleCustomers =
   [
     [
-      'description' => '2-bedroom rental in 2-family house',
-      'start_month' => '6.22',
-      'readings' => [  490,  702,  484,  696,  413,  344,  398,  395,  327,  288,  377,  342,  468 ]
+      'description' => '2-bedroom apartment with heat pump',   // Tenant at 39 - 41 SUNSET AVE
+      'start_month' => '12.23',
+      'readings' => [ 1401, 1618, 1748, 1238,  767,  371,  418,  557,  755,  472,  392,  335,  607 ]
     ],
     [
-      'description' => '2-bedroom rental in 2-family house',
+      'description' => '3-bedroom apartment with heat pump',   // Owner at 39 - 41 SUNSET AVE
       'start_month' => '5.21',
       'readings' => [  470,  558,  824,  664,  816,  634,  522,  524,  516,  451,  447,  522,  445 ]
     ],
     [
-      'description' => '4-bedroom house, A/C',
-      'start_month' => '4.18',
-      'readings' => [ 1033,  974, 1254, 1128, 1445, 1461, 1206, 1055, 1160, 1219, 1198, 1056, 1034 ]
+      'description' => '2-bedroom apartment in 2-family house',
+      'start_month' => '6.22',
+      'readings' => [  490,  702,  484,  696,  413,  344,  398,  395,  327,  288,  377,  342,  468 ]
     ],
     [
       'description' => '4-bedroom house, A/C, inground pool',
