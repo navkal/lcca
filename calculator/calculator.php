@@ -6,14 +6,14 @@
   $g_aSampleCustomers =
   [
     [
-      'description' => '2-bedroom apartment with heat pump',   // Tenant at 39 - 41 SUNSET AVE
+      'description' => '2-bedroom apartment with heat pump',   // Tenant
       'start_month' => '12.23',
       'readings' => [ 1401, 1618, 1748, 1238,  767,  371,  418,  557,  755,  472,  392,  335,  607 ]
     ],
     [
-      'description' => '3-bedroom apartment with heat pump',   // Owner at 39 - 41 SUNSET AVE
-      'start_month' => '5.21',
-      'readings' => [  470,  558,  824,  664,  816,  634,  522,  524,  516,  451,  447,  522,  445 ]
+      'description' => '3-bedroom apartment with heat pump',   // Owner
+      'start_month' => '12.23',
+      'readings' => [ 1254, 1026,  958, 1152,  523,  630,  601,  617,  655,  469,  424,  629, 1032 ]
     ],
     [
       'description' => '2-bedroom apartment in 2-family house',
