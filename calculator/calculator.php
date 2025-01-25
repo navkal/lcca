@@ -6,24 +6,24 @@
   $g_aSampleCustomers =
   [
     [
-      'description' => '2-bedroom apartment with heat pump',   // Tenant
+      'description' => '2-bedroom apartment with heat pump',    // Tenant
       'start_month' => '12.23',
       'readings' => [ 1401, 1618, 1748, 1238,  767,  371,  418,  557,  755,  472,  392,  335,  607 ]
     ],
     [
-      'description' => '3-bedroom apartment with heat pump',   // Owner
+      'description' => '3-bedroom apartment with heat pump',    // Owner
       'start_month' => '12.23',
       'readings' => [ 1254, 1026,  958, 1152,  523,  630,  601,  617,  655,  469,  424,  629, 1032 ]
     ],
     [
-      'description' => '2-bedroom apartment in 2-family house',
+      'description' => '2-bedroom apartment in 2-family house', // 
       'start_month' => '6.22',
       'readings' => [  490,  702,  484,  696,  413,  344,  398,  395,  327,  288,  377,  342,  468 ]
     ],
     [
-      'description' => '4-bedroom house, A/C, inground pool',
-      'start_month' => '5.18',
-      'readings' => [  647, 1062, 2000, 2154, 2031,  789,  582,  630,  548,  457,  463,  520,  562 ]
+      'description' => '2-bedroom apartment',                   // Methuen
+      'start_month' => '1.24',
+      'readings' => [  417,  341,  254,  201,  183,  206,  298,  466,  245,  209,  198,  386,  558 ]
     ],
     [
       'description' => '4-bedroom house, A/C, electric vehicle',
