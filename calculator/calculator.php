@@ -16,9 +16,9 @@
       'readings' => [ 1254, 1026,  958, 1152,  523,  630,  601,  617,  655,  469,  424,  629, 1032 ]
     ],
     [
-      'description' => '2-bedroom apartment in 2-family house', // 
-      'start_month' => '6.22',
-      'readings' => [  490,  702,  484,  696,  413,  344,  398,  395,  327,  288,  377,  342,  468 ]
+      'description' => '2-bedroom apartment',                   // Clarke St
+      'start_month' => '11.23',
+      'readings' => [  772,  898, 1116,  732,  660,  584,  572,  695,  883,  931,  686,  592,  165 ]
     ],
     [
       'description' => '2-bedroom apartment',                   // Methuen
