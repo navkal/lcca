@@ -1025,6 +1025,18 @@ input.error
       end: '2027-12',
       rate: 15.599
     },
+    'Methuen Standard':
+    {
+      is_default: true,
+      url: 'https://colonialpowergroup.com/methuen-further-pricing/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2024-12',
+      end: '2027-12',
+      rate: 12.830
+    },
     'Natick Basic/Brown':
     {
       is_default: false,
