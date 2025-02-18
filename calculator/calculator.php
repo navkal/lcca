@@ -917,6 +917,18 @@ input.error
       end: '2025-12',
       rate: 15.100
     },
+    'Lawrence':
+    {
+      is_default: true,
+      url: 'https://colonialpowergroup.com/lawrence/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2025-05',
+      end: '2027-11',
+      rate: 13.263
+    },
     'Lexington Basic':
     {
       is_default: false,
