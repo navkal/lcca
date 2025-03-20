@@ -926,7 +926,7 @@ input.error
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
       start: '2025-05',
-      end: '2027-10',
+      end: '2027-11',
       rate: 13.263
     },
     'Lexington Basic':
