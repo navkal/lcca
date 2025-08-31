@@ -1129,9 +1129,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-10',
-      end: '2025-10',
-      rate: 15.543
+      start: '2025-10',
+      end: '2028-10',
+      rate: 13.890
     },
     'North Andover Optional':
     {
@@ -1139,11 +1139,11 @@ input.error
       url: 'https://colonialpowergroup.com/north-andover',
       broker: 'Colonial Power Group',
       broker_url: 'https://colonialpowergroup.com/',
-      green: g_nMinimumTotalGreen + 41,
+      green: g_nMinimumTotalGreen + 37,
       local: g_nMinimumLocalGreen,
-      start: '2023-10',
-      end: '2025-10',
-      rate: 15.751
+      start: '2025-10',
+      end: '2028-10',
+      rate: 13.990
     },
    'Quincy Basic':
     {
