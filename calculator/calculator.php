@@ -1321,9 +1321,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 15.784
+      start: '2025-11',
+      end: '2028-11',
+      rate: 14.346
     },
     'Westford Standard':
     {
@@ -1333,9 +1333,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 10,
       local: g_nMinimumLocalGreen + 10,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 16.178
+      start: '2025-11',
+      end: '2028-11',
+      rate: 14.742
     },
     'Westford Plus':
     {
@@ -1345,9 +1345,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: 100,
       local: 100,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 17.282
+      start: '2025-11',
+      end: '2028-11',
+      rate: 15.380
     },
     'Williamsburg':
     {
