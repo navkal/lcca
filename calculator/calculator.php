@@ -769,9 +769,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 15.784
+      start: '2025-11',
+      end: '2028-11',
+      rate: 14.346
     },
     'Dracut Plus':
     {
@@ -781,9 +781,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: 100,
       local: 100,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 17.372
+      start: '2025-11',
+      end: '2028-11',
+      rate: 15.475
     },
     'Gill Optional Green 5':
     {
