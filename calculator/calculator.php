@@ -589,9 +589,9 @@ input.error
       broker_url: 'https://www.constellation.com/solutions/for-your-home/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-12',
-      end: '2025-12',
-      rate: 14.205
+      start: '2025-12',
+      end: '2027-12',
+      rate: 13.661
     },
     'Boston Standard':
     {
@@ -601,9 +601,9 @@ input.error
       broker_url: 'https://www.constellation.com/solutions/for-your-home/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
       green: g_nMinimumTotalGreen + 15,
       local: g_nMinimumLocalGreen + 15,
-      start: '2023-12',
-      end: '2025-12',
-      rate: 14.805
+      start: '2025-12',
+      end: '2027-12',
+      rate: 14.231
     },
     'Boston Optional Green 100':
     {
@@ -613,9 +613,9 @@ input.error
       broker_url: 'https://www.constellation.com/solutions/for-your-home/governmental-aggregation/massachusetts-aggregation-programs/Boston.html',
       green: 100,
       local: 100,
-      start: '2023-12',
-      end: '2025-12',
-      rate: 17.195
+      start: '2025-12',
+      end: '2027-12',
+      rate: 16.248
     },
     'Brookline Basic':
     {
