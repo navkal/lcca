@@ -1397,29 +1397,41 @@ input.error
       end: '2027-12',
       rate: 14.403
     },
+    'Worcester Basic Green':
+    {
+      is_default: false,
+      url: 'https://www.masspowerchoice.com/worcester',
+      broker: 'Mass Power Choice',
+      broker_url: 'https://masspowerchoice.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2025-12',
+      end: '2027-12',
+      rate: 14.69
+    },
     'Worcester Standard Green':
     {
       is_default: true,
-      url: 'https://masspowerchoice.com/worcester/options-prices',
+      url: 'https://www.masspowerchoice.com/worcester',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen + 40,
       local: g_nMinimumLocalGreen + 40,
-      start: '2023-12',
-      end: '2025-12',
-      rate: 16.310
+      start: '2025-12',
+      end: '2027-12',
+      rate: 15.320
     },
     'Worcester 100% Green':
     {
       is_default: false,
-      url: 'https://masspowerchoice.com/worcester/options-prices',
+      url: 'https://www.masspowerchoice.com/worcester',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2023-12',
-      end: '2025-12',
-      rate: 17.730
+      start: '2025-12',
+      end: '2027-12',
+      rate: 16.510
     },
   };
 
