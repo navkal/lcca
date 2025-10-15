@@ -725,41 +725,41 @@ input.error
       end: '2026-01',
       rate: 17.896
     },
-    'Chelmsford Choice Basic':
+    'Chelmsford Choice Economy':
     {
-      is_default: true,
-      url: 'https://masspowerchoice.com/chelmsford/your-options',
+      is_default: false,
+      url: 'https://www.masspowerchoice.com/chelmsford',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-11',
-      end: '2025-11',
-      rate: 14.843
+      start: '2025-11',
+      end: '2027-11',
+      rate: 14.000
     },
-    'Chelmsford Choice Greener':
+    'Chelmsford Choice Basic Green':
     {
-      is_default: false,
-      url: 'https://masspowerchoice.com/chelmsford/your-options',
+      is_default: true,
+      url: 'https://www.masspowerchoice.com/chelmsford',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
-      green: g_nMinimumTotalGreen + 40,
-      local: g_nMinimumLocalGreen + 40,
-      start: '2023-11',
-      end: '2025-11',
-      rate: 16.415
+      green: g_nMinimumTotalGreen + 20,
+      local: g_nMinimumLocalGreen + 20,
+      start: '2025-11',
+      end: '2027-11',
+      rate: 14.720
     },
     'Chelmsford Choice Greenest':
     {
       is_default: false,
-      url: 'https://masspowerchoice.com/chelmsford/your-options',
+      url: 'https://www.masspowerchoice.com/chelmsford',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: 100,
-      start: '2023-11',
-      end: '2025-11',
-      rate: 17.849
+      start: '2025-11',
+      end: '2027-11',
+      rate: 16.490
     },
     'Dracut Standard':
     {
