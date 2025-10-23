@@ -857,7 +857,7 @@ input.error
       end: '2027-12',
       rate: 15.065
     },
-    'Hamilton Basic 0%':
+    'Hamilton Basic':
     {
       is_default: false,
       url: 'https://hamiltoncca.com/',
@@ -865,9 +865,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 14.950
+      start: '2025-12',
+      end: '2029-12',
+      rate: 13.990
     },
     'Hamilton Standard':
     {
@@ -877,9 +877,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen + 5,
       local: g_nMinimumLocalGreen + 5,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 15.148
+      start: '2025-12',
+      end: '2029-12',
+      rate: 14.190
     },
     'Hamilton Plus':
     {
@@ -889,9 +889,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: 100,
       local: 100,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 16.455
+      start: '2025-12',
+      end: '2029-12',
+      rate: 14.870
     },
     'Haverhill':
     {
