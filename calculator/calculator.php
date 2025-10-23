@@ -1189,9 +1189,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 14.950
+      start: '2025-12',
+      end: '2029-12',
+      rate: 13.265
     },
     'Sudbury Standard':
     {
@@ -1199,11 +1199,11 @@ input.error
       url: 'https://sudbury-cea.com/',
       broker: 'Good Energy',
       broker_url: 'http://goodenergy.com/',
-      green: g_nMinimumTotalGreen + 10,
-      local: g_nMinimumLocalGreen + 10,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 15.148
+      green: 100,
+      local: g_nMinimumLocalGreen,
+      start: '2025-12',
+      end: '2029-12',
+      rate: 13.440
     },
     'Sudbury Plus':
     {
@@ -1213,9 +1213,9 @@ input.error
       broker_url: 'http://goodenergy.com/',
       green: 100,
       local: 100,
-      start: '2023-12',
-      end: '2025-11',
-      rate: 16.455
+      start: '2025-12',
+      end: '2029-12',
+      rate: 14.329
     },
     'Tewksbury Optional Basic':
     {
