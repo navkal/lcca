@@ -509,7 +509,19 @@ input.error
       end: '2027-12',
       rate: 17.430
     },
-    'Ashland':
+    'Ashland Optional Basic':
+    {
+      is_default: false,
+      url: 'https://colonialpowergroup.com/ashland/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: g_nMinimumTotalGreen,
+      local: g_nMinimumLocalGreen,
+      start: '2025-12',
+      end: '2028-11',
+      rate: 13.746
+    },
+    'Ashland Standard':
     {
       is_default: true,
       url: 'https://colonialpowergroup.com/ashland/',
@@ -517,9 +529,21 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen + 25,
       local: g_nMinimumLocalGreen + 25,
-      start: '2023-12',
-      end: '2025-12',
-      rate: 15.988
+      start: '2025-12',
+      end: '2028-11',
+      rate: 14.641
+    },
+    'Ashland Optional Green 100':
+    {
+      is_default: false,
+      url: 'https://colonialpowergroup.com/ashland/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: 100,
+      local: 100,
+      start: '2025-12',
+      end: '2028-11',
+      rate: 16.375
     },
     'Bedford Basic':
     {
