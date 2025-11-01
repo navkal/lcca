@@ -937,9 +937,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-12',
-      end: '2025-12',
-      rate: 15.100
+      start: '2025-12',
+      end: '2028-11',
+      rate: 14.087
     },
     'Lawrence':
     {
