@@ -378,7 +378,7 @@ input.error
 
   // Determine minimum standard for current year (https://www.mass.gov/doc/minimum-standards)
   // For 2026-2030, https://www.mass.gov/doc/225-cmr-14-renewable-energy-portfolio-standard-class-i
-  
+
   var g_tMinimumLocalGreen =
   {
     2019: 14,
@@ -728,9 +728,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 15.025
+      start: '2026-01',
+      end: '2028-11',
+      rate: 13.558
     },
     'Carlisle Standard':
     {
@@ -740,9 +740,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen + 25,
       local: g_nMinimumLocalGreen + 25,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 15.989
+      start: '2026-01',
+      end: '2028-11',
+      rate: 14.435
     },
     'Carlisle Optional Green 100':
     {
@@ -752,9 +752,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: 100,
       local: 100,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 17.896
+      start: '2026-01',
+      end: '2028-11',
+      rate: 16.120
     },
     'Chelmsford Choice Economy':
     {
