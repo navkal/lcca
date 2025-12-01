@@ -377,6 +377,8 @@ input.error
   var g_aSampleCustomers = JSON.parse( '<?=json_encode( $g_aSampleCustomers )?>' );
 
   // Determine minimum standard for current year (https://www.mass.gov/doc/minimum-standards)
+  // For 2026-2030, https://www.mass.gov/doc/225-cmr-14-renewable-energy-portfolio-standard-class-i
+  
   var g_tMinimumLocalGreen =
   {
     2019: 14,
@@ -385,7 +387,12 @@ input.error
     2022: 20,
     2023: 22,
     2024: 24,
-    2025: 27
+    2025: 27,
+    2026: 30,
+    2027: 33,
+    2028: 36,
+    2029: 39,
+    2030: 40,
   };
   var g_iCurrentYear = new Date().getFullYear()
   if ( g_iCurrentYear in g_tMinimumLocalGreen )
@@ -589,9 +596,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 14.011
+      start: '2026-01',
+      end: '2028-11',
+      rate: 13.522
     },
     'Billerica Optional':
     {
@@ -599,11 +606,11 @@ input.error
       url: 'https://colonialpowergroup.com/billerica/',
       broker: 'Colonial Power Group',
       broker_url: 'https://colonialpowergroup.com/',
-      green: g_nMinimumTotalGreen + 38,
+      green: g_nMinimumTotalGreen + 31,
       local: g_nMinimumLocalGreen,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 14.152
+      start: '2026-01',
+      end: '2028-11',
+      rate: 13.619
     },
     'Boston Optional Basic':
     {
