@@ -824,9 +824,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen + 5,
       local: g_nMinimumLocalGreen + 5,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 14.354
+      start: '2026-01',
+      end: '2028-11',
+      rate: 13.132
     },
     'Gill Standard':
     {
@@ -836,9 +836,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen + 25,
       local: g_nMinimumLocalGreen + 25,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 15.136
+      start: '2026-01',
+      end: '2028-11',
+      rate: 13.852
     },
     'Gill Optional Green 100':
     {
@@ -848,9 +848,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: 100,
       local: 100,
-      start: '2024-01',
-      end: '2026-01',
-      rate: 18.092
+      start: '2026-01',
+      end: '2028-11',
+      rate: 15.452
     },
     'Gloucester Basic':
     {
