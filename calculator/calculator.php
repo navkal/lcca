@@ -1152,6 +1152,18 @@ input.error
       end: '2028-10',
       rate: 13.990
     },
+    'Plymouth':
+    {
+      is_default: true,
+      url: 'https://colonialpowergroup.com/plymouth/plymouth-further-pricing/',
+      broker: 'Colonial Power Group',
+      broker_url: 'https://colonialpowergroup.com/',
+      green: g_nMinimumTotalGreen + 37,
+      local: g_nMinimumLocalGreen,
+      start: '2026-03',
+      end: '2029-10',
+      rate: 14.625
+    },
    'Quincy Basic':
     {
       is_default: false,
