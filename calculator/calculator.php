@@ -932,9 +932,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-11',
-      end: '2026-11',
-      rate: 14.377
+      start: '2026-11',
+      end: '2027-11',
+      rate: 15.999
     },
     'Lancaster':
     {
