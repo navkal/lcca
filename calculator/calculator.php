@@ -1280,9 +1280,9 @@ input.error
       broker_url: 'https://colonialpowergroup.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2024-11',
-      end: '2026-11',
-      rate: 12.994
+      start: '2026-11',
+      end: '2027-11',
+      rate: 16.061
     },
     'Tyngsborough Optional':
     {
@@ -1290,11 +1290,11 @@ input.error
       url: 'https://colonialpowergroup.com/tyngsborough/',
       broker: 'Colonial Power Group',
       broker_url: 'https://colonialpowergroup.com/',
-      green: 100,
+      green: 100 - 31,      // 31% National Wind RECs
       local: g_nMinimumLocalGreen,
-      start: '2024-11',
-      end: '2026-11',
-      rate: 13.175
+      start: '2026-11',
+      end: '2027-11',
+      rate: 16.139
     },
     'Watertown Basic':
     {
