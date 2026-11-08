@@ -1299,38 +1299,38 @@ input.error
     'Watertown Basic':
     {
       is_default: false,
-      url: 'https://masspowerchoice.com/watertown/options-prices',
+      url: 'https://www.masspowerchoice.com/watertown',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
       green: g_nMinimumTotalGreen,
       local: g_nMinimumLocalGreen,
-      start: '2023-12',
-      end: '2026-12',
-      rate: 13.450
+      start: '2026-12',
+      end: '2028-12',
+      rate: 15.940
     },
     'Watertown Standard':
     {
       is_default: true,
-      url: 'https://masspowerchoice.com/watertown/options-prices',
+      url: 'https://www.masspowerchoice.com/watertown',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
       green: 100,
       local: g_nMinimumLocalGreen + 5,
-      start: '2023-12',
-      end: '2026-12',
-      rate: 13.740
+      start: '2026-12',
+      end: '2028-12',
+      rate: 15.990
     },
     'Watertown 100% Green':
     {
       is_default: false,
-      url: 'https://masspowerchoice.com/watertown/options-prices',
+      url: 'https://www.masspowerchoice.com/watertown',
       broker: 'Mass Power Choice',
       broker_url: 'https://masspowerchoice.com/',
-      green: 138,
+      green: 139,
       local: 100,
-      start: '2023-12',
-      end: '2026-12',
-      rate: 15.900
+      start: '2026-12',
+      end: '2028-12',
+      rate: 18.430
     },
     'Westford Basic':
     {
